@@ -18,7 +18,6 @@ def index():
         "#13 Ronaldo",
         "#12 Lil Wayne",
         "#11 Kim Kardashian",
-        'German Ilyin',
         "#10 Drake",
         "#9 Katy Perry",
         "#8 Obama",

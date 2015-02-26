@@ -54,9 +54,7 @@ We will be working on simple web project. It is deployed and available on <https
  * 12 Lil Wayne
  * 11 Kim Kardashian
  * German Ilyin
-<<<<<<< HEAD
  * Turapbekov Bekzat
-=======
  * 10 Drake
  * 9 Katy Perry
  * 8 Obama
