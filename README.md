@@ -66,7 +66,7 @@ We will be working on simple web project. It is deployed and available on <https
  * 2 Lady Gaga
  * 1 Justin Bieber
 
->>>>>>> the_origin/conflict
+
 ## Git commands you might need
 
  * git help
@@ -84,4 +84,4 @@ We will be working on simple web project. It is deployed and available on <https
 ## Troubleshooting
 
  * https://stackoverflow.com/questions/4565700/specify-private-ssh-key-to-use-when-executing-shell-command-with-or-without-ruby
- * https://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use
+[<65;46;32M * https://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use
